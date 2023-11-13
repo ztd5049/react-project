@@ -1,5 +1,6 @@
 {
   "name": "react-project",
+  "homepage": "http://ztd5049.github.io/react-project",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
